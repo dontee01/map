@@ -186,7 +186,7 @@ if (!isset($_SESSION['user_id']))
     </script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?sensor=false&callback=initMap">
     </script>
-    <!-- <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCaFNtO5Xx5EHlX_bm0swQq_jw7OVVoSE8&callback=initMap">
+    <!-- <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCaFNtO5Xx5EHlX00_bm0swQq_jw7OVVoSE8&callback=initMap">
     </script> -->
 
                     </div>
